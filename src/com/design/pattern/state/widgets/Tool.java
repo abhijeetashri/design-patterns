@@ -1,4 +1,4 @@
-package com.design.pattern.state;
+package com.design.pattern.state.widgets;
 
 public interface Tool {
 

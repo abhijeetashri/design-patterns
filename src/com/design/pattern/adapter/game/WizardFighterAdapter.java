@@ -1,4 +1,4 @@
-package com.design.pattern.adapter;
+package com.design.pattern.adapter.game;
 
 public class WizardFighterAdapter {
 
